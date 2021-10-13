@@ -1,5 +1,5 @@
 1.Clone From git
 2.create 'test' db and Import containing SQL file
-3.change .env file set DB_DATABASE=test
-4. comamnd type " php artisan key:generate"
+3.create .env file to .env.exmple change file and set DB_DATABASE=test in .env file
+4.comamnd type " php artisan key:generate"
 5.GO
